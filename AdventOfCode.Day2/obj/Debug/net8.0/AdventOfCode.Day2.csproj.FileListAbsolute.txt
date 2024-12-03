@@ -1,0 +1,16 @@
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\bin\Debug\net8.0\AdventOfCode.Day2.exe
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\bin\Debug\net8.0\AdventOfCode.Day2.deps.json
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\bin\Debug\net8.0\AdventOfCode.Day2.runtimeconfig.json
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\bin\Debug\net8.0\AdventOfCode.Day2.dll
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\bin\Debug\net8.0\AdventOfCode.Day2.pdb
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\AdventOfCode.Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\AdventOfCode.Day2.AssemblyInfoInputs.cache
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\AdventOfCode.Day2.AssemblyInfo.cs
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\AdventOfCode.Day2.csproj.CoreCompileInputs.cache
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\AdventOfCode.Day2.dll
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\refint\AdventOfCode.Day2.dll
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\AdventOfCode.Day2.pdb
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\AdventOfCode.Day2.genruntimeconfig.cache
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\obj\Debug\net8.0\ref\AdventOfCode.Day2.dll
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\bin\Debug\net8.0\input.txt
+C:\Users\mcvetan1\source\repos\AdventOfCode2023\AdventOfCode.Day2\bin\Debug\net8.0\test1.txt
